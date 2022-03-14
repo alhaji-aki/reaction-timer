@@ -1,14 +1,10 @@
 # reaction-timer
 
-This template should help get you started developing with Vue 3 in Vite.
+Learning vue js from the netninja
 
-## Recommended IDE Setup
+## Tutorial link
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.vscode-typescript-vue-plugin).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+[Youtube Playlist](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hYYGbV60Vq3IXYNfDk8At1)
 
 ## Project Setup
 
